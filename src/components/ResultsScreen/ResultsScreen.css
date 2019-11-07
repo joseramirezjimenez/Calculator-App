@@ -1,7 +1,7 @@
 .ResultsScreen {
     height: 19vh;
-    width: 50pt;
-    font-weight: bold; 
+    font-weight: bold;
+    font-size: 40pt; 
 
     display: flex;
     justify-content: flex-end;
