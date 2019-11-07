@@ -1,0 +1,9 @@
+.ResultsScreen {
+    height: 19vh;
+    width: 50pt;
+    font-weight: bold; 
+
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
