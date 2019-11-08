@@ -22,7 +22,7 @@
 }
 
 .Button-operator {
-    color: orange;
+    color: darkorange;
 }
 
 .Button-secondary {
@@ -31,5 +31,6 @@
 
 .Button-large {
     width: 50%;
-    color: darkgreen;
+    background-color: gold;
+    color: white;
 }
